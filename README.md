@@ -1,0 +1,2 @@
+# Trabalho.java
+Dano pokemon
